@@ -1,0 +1,6 @@
+type name of file
+it will open file
+it will show content
+it will count num of lines
+next target is to find that string
+
